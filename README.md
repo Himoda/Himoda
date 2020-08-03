@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 🌱
+
+![Dont](https://raw.githubusercontent.com/Himoda/Himoda/master/img.jpg)
 
 <!--
 **Himoda/Himoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
